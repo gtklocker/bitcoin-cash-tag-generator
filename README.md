@@ -2,7 +2,7 @@
 
 * Install pipenv. (`pacman -S python-pipenv` or similar)
 * `git clone https://github.com/gtklocker/bitcoin-cash-tag-generator && cd bitcoin-cash-tag-generator`
-* `pipenv install`
+* `pipenv install && pipenv shell`
 * `python tag-generator.py -h`
 
 ---
